@@ -1,0 +1,13 @@
+namespace System.Xml.Schema;
+
+internal class Datatype_untypedAtomicType : Datatype_anyAtomicType
+{
+	internal override XmlSchemaWhiteSpace BuiltInWhitespaceFacet => default(XmlSchemaWhiteSpace);
+
+	public override XmlTypeCode TypeCode => default(XmlTypeCode);
+
+	internal override XmlValueConverter CreateValueConverter(XmlSchemaType schemaType)
+	{
+		return null;
+	}
+}

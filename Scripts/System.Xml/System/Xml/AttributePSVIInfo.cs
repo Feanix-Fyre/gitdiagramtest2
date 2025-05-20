@@ -1,0 +1,22 @@
+using System.Xml.Schema;
+
+namespace System.Xml;
+
+internal class AttributePSVIInfo
+{
+	internal string localName;
+
+	internal string namespaceUri;
+
+	internal object typedAttributeValue;
+
+	internal XmlSchemaInfo attributeSchemaInfo;
+
+	internal AttributePSVIInfo()
+	{
+	}
+
+	internal void Reset()
+	{
+	}
+}

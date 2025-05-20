@@ -1,0 +1,36 @@
+namespace System.Threading;
+
+internal class CancellationCallbackInfo
+{
+	internal sealed class WithSyncContext : CancellationCallbackInfo
+	{
+		internal readonly SynchronizationContext TargetSyncContext;
+
+		internal WithSyncContext(Action<object> callback, object stateForCallback, ExecutionContext targetExecutionContext, CancellationTokenSource cancellationTokenSource, SynchronizationContext targetSyncContext)
+			: base(null, null, null, null)
+		{
+		}
+	}
+
+	internal readonly Action<object> Callback;
+
+	internal readonly object StateForCallback;
+
+	internal readonly ExecutionContext TargetExecutionContext;
+
+	internal readonly CancellationTokenSource CancellationTokenSource;
+
+	private static ContextCallback s_executionContextCallback;
+
+	internal CancellationCallbackInfo(Action<object> callback, object stateForCallback, ExecutionContext targetExecutionContext, CancellationTokenSource cancellationTokenSource)
+	{
+	}
+
+	internal void ExecuteCallback()
+	{
+	}
+
+	private static void ExecutionContextCallback(object obj)
+	{
+	}
+}
