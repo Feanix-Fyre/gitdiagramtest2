@@ -1,0 +1,1 @@
+I don't want incremental progress updates; I want you to finish each and every single sub-namespace within the ScheduleOne namespace before the next progress update. Stop stopping to check-in. I don't need an update. Stop updating me. Finish the documentation in full.
