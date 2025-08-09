@@ -11,155 +11,32 @@
 **Clothing:**
 
 **Combat:**
-- EImpactType.cs
-- Explosion.cs
-- ExplosionData.cs
-- IDamageable.cs
-- Impact.cs
-- PhysicsDamageable.cs
-- PunchController.cs
 
 **ConstructableScripts:**
-- Constructable.cs
-- Constructable_GridBased.cs
-- EmployeeTrailer.cs
-- LoadingDock.cs
 
 **Construction:**
-- ConstructionManager.cs
-- ConstructionMethods/ConstructStart_Base.cs
-- ConstructionMethods/ConstructStart_OutdoorGrid.cs
-- ConstructionMethods/ConstructStart_PowerLine.cs
-- ConstructionMethods/ConstructStop_Base.cs
-- ConstructionMethods/ConstructUpdate_Base.cs
-- ConstructionMethods/ConstructUpdate_OutdoorGrid.cs
-- ConstructionMethods/ConstructUpdate_PowerLine.cs
-- ConstructionMethods/ConstructUpdate_PowerTower.cs
-- Features/ColorFeature.cs
-- Features/Feature.cs
-- Features/GenericOption.cs
-- Features/GenericOptionListFeature.cs
-- Features/MaterialFeature.cs
-- Features/OptionListFeature.cs
 
 **Cutscenes:**
-- Cutscene.cs
-- CutsceneManager.cs
-- EndCutscene.cs
 
 **Decoration:**
-- RockerSwitch.cs
 
 **Delivery:**
-- DeliveryInstance.cs
-- DeliveryManager.cs
-- DeliveryVehicle.cs
-- EDeliveryStatus.cs
-- LoadingDock.cs
 
 **Doors:**
-- DarkMarketRollerDoors.cs
-- DealerStaticDoor.cs
-- DoorController.cs
-- DoorSensor.cs
-- EDoorAccess.cs
-- EDoorSide.cs
-- Peephole.cs
-- PivotDoor.cs
-- RollerDoor.cs
-- SensorRollerDoors.cs
-- SlidingDoor.cs
-- StaticDoor.cs
 
 **Dragging:**
-- DragManager.cs
-- Draggable.cs
 
 **Equipping:**
-- Equippable.cs
-- Equippable_Additive.cs
-- Equippable_AvatarViewmodel.cs
-- Equippable_Bin.cs
-- Equippable_BuildableItem.cs
-- Equippable_Cuke.cs
-- Equippable_MeleeWeapon.cs
-- Equippable_Pourable.cs
-- Equippable_RangedWeapon.cs
-- Equippable_Revolver.cs
-- Equippable_Seed.cs
-- Equippable_StorableItem.cs
-- Equippable_SurfaceItem.cs
-- Equippable_TrashGrabber.cs
-- Equippable_Trimmers.cs
-- Equippable_Viewmodel.cs
-- Equippable_WateringCan.cs
-- LiquidMeth_Equippable.cs
 
 **GameTime:**
-- AnalogueClock.cs
-- EDay.cs
-- GameDateTime.cs
-- TimeManager.cs
-- TutorialTimeController.cs
 
 **Growing:**
-- Additive.cs
-- CocaPlant.cs
-- FunctionalSeed.cs
-- Plant.cs
-- PlantGrowthStage.cs
-- PlantHarvestable.cs
-- PourableAdditive.cs
-- SeedDefinition.cs
-- SoilChunk.cs
-- VialCap.cs
-- WeedPlant.cs
 
 **Interaction:**
-- EInteractionSearchType.cs
-- InteractableObject.cs
-- InteractableToggleable.cs
-- InteractionManager.cs
-- NetworkedInteractableToggleable.cs
-- WorldSpaceLabel.cs
 
 **Intro:**
-- IntroManager.cs
 
 **ItemFramework:**
-- AdditiveDefinition.cs
-- BuildableItemDefinition.cs
-- CashDefinition.cs
-- CashInstance.cs
-- CashPickup.cs
-- ClipboardSlot.cs
-- EItemCategory.cs
-- ELegalStatus.cs
-- EQuality.cs
-- IDs.cs
-- IItemSlotOwner.cs
-- IntegerItemDefinition.cs
-- IntegerItemInstance.cs
-- ItemDefinition.cs
-- ItemFilter.cs
-- ItemFilter_Category.cs
-- ItemFilter_ClothingSlot.cs
-- ItemFilter_Dryable.cs
-- ItemFilter_ID.cs
-- ItemFilter_LegalStatus.cs
-- ItemFilter_MixingIngredient.cs
-- ItemFilter_PackagedProduct.cs
-- ItemFilter_UnpackagedProduct.cs
-- ItemGiver.cs
-- ItemInstance.cs
-- ItemPickup.cs
-- ItemQuality.cs
-- ItemRemover.cs
-- ItemSerializers.cs
-- ItemSlot.cs
-- ItemSlotLock.cs
-- QualityItemDefinition.cs
-- QualityItemInstance.cs
 - SoilDefinition.cs
 - StorableItemDefinition.cs
 
