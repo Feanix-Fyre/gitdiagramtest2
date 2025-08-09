@@ -5,27 +5,12 @@
 **Building:**
 
 **Calling:**
-- PayPhone.cs
 
 **Casino:**
-- BlackjackGameController.cs
-- PlayingCard.cs
-- RTBGameController.cs
-- SlotMachine.cs
-- SlotReel.cs
 
 **Clothing:**
-- ClothingColorExtensions.cs
-- ClothingDefinition.cs
-- ClothingInstance.cs
-- ClothingUtility.cs
-- EClothingApplicationType.cs
-- EClothingColor.cs
-- EClothingSlot.cs
 
 **Combat:**
-- CombatBehaviour.cs
-- CombatManager.cs
 - EImpactType.cs
 - Explosion.cs
 - ExplosionData.cs
