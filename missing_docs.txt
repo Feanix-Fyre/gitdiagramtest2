@@ -37,19 +37,8 @@
 **Intro:**
 
 **ItemFramework:**
-- SoilDefinition.cs
-- StorableItemDefinition.cs
 
 **Law:**
-- Assault.cs
-- AttemptingToSell.cs
-- BrandishingWeapon.cs
-- CheckpointInstance.cs
-- CheckpointManager.cs
-- Crime.cs
-- CurfewInstance.cs
-- CurfewManager.cs
-- DeadlyAssault.cs
 - DischargeFirearm.cs
 - DrugTrafficking.cs
 - Evading.cs
