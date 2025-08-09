@@ -39,39 +39,8 @@
 **ItemFramework:**
 
 **Law:**
-- DischargeFirearm.cs
-- DrugTrafficking.cs
-- Evading.cs
-- FailureToComply.cs
-- LawActivitySettings.cs
-- LawController.cs
-- LawManager.cs
-- PatrolInstance.cs
-- PenaltyHandler.cs
-- PossessingControlledSubstances.cs
-- PossessingHighSeverityDrug.cs
-- PossessingLowSeverityDrug.cs
-- PossessingModerateSeverityDrug.cs
-- SentryInstance.cs
-- SentryLocation.cs
-- Theft.cs
-- TransportingIllicitItems.cs
-- Vandalism.cs
-- VehiclePatrolInstance.cs
-- VehicularAssault.cs
-- ViolatingCurfew.cs
 
 **Management:**
-- AdvancedTransitRoute.cs
-- BotanistConfiguration.cs
-- BrickPressConfiguration.cs
-- CauldronConfiguration.cs
-- ChemistConfiguration.cs
-- ChemistryStationConfiguration.cs
-- CleanerConfiguration.cs
-- ConfigField.cs
-- ConfigurableType.cs
-- ConfigurationReplicator.cs
 - DryingRackConfiguration.cs
 - EConfigurableType.cs
 - EntityConfiguration.cs
