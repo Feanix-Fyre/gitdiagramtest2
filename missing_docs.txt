@@ -1,88 +1,10 @@
-**Root:**
-- AchievementManager.cs
-- CommandListScreen.cs
-- Console.cs
-- GameInput.cs
-- IGUIDRegisterable.cs
-- Registry.cs
-- XPAmounts.cs
 
 **AvatarFramework:**
-- Accessory.cs
-- Avatar.cs
-- AvatarEffects.cs
-- AvatarLayer.cs
-- AvatarSettings.cs
-- Eye.cs
-- EyeController.cs
-- Eyebrow.cs
-- EyebrowController.cs
-- FaceLayer.cs
-- Hair.cs
-- MugshotGenerator.cs
-- Animation/AvatarAnimation.cs
-- Animation/AvatarFootstepDetector.cs
-- Animation/AvatarIKController.cs
-- Animation/AvatarLookController.cs
-- Animation/AvatarSeat.cs
-- Animation/AvatarSeatSet.cs
-- Animation/BoneTransform.cs
-- Customization/ACAccessoryReplicator.cs
-- Customization/ACAccessorySelection.cs
 - Customization/ACAssetPathReplicator.cs
-- Customization/ACAvatarLayerReplicator.cs
-- Customization/ACAvatarLayerSelection.cs
-- Customization/ACColorPickerReplicator.cs
-- Customization/ACEntry.cs
-- Customization/ACFaceLayerReplicator.cs
-- Customization/ACFaceLayerSelection.cs
-- Customization/ACReplicator.cs
-- Customization/ACSelection.cs
-- Customization/ACSliderReplicator.cs
-- Customization/ACWindow.cs
-- Customization/BasicAvatarSettings.cs
-- Customization/CharacterCreator.cs
-- Customization/CustomizationManager.cs
-- Customization/PoliceBelt.cs
-- Emotions/AvatarEmotionManager.cs
-- Emotions/AvatarEmotionPreset.cs
-- Emotions/DefaultEmotions.cs
-- Emotions/EmotionOverride.cs
-- Equipping/AvatarEquippable.cs
-- Equipping/AvatarEquippableLookAt.cs
-- Equipping/AvatarMeleeWeapon.cs
-- Equipping/AvatarRangedWeapon.cs
-- Equipping/AvatarWeapon.cs
-- Equipping/Handgun.cs
-- Equipping/Taser.cs
-- Impostors/AvatarImpostor.cs
-- Impostors/ImpostorGenerator.cs
 
 **Building:**
-- ActivateDuringBuild.cs
-- BuildManager.cs
-- BuildStart_Base.cs
-- BuildStart_Cash.cs
-- BuildStart_Grid.cs
-- BuildStart_ProceduralGrid.cs
-- BuildStart_StoredItem.cs
-- BuildStart_Surface.cs
-- BuildStop_Base.cs
-- BuildUpdate_Base.cs
-- BuildUpdate_Cash.cs
-- BuildUpdate_Grid.cs
-- BuildUpdate_ProceduralGrid.cs
-- BuildUpdate_StoredItem.cs
-- BuildUpdate_Surface.cs
-- CornerObstacle.cs
-- OverrideGhostMaterial.cs
-- Surface.cs
-- TileIntersection.cs
-- Doors/DoorKnocker.cs
-- Doors/PropertyDoorController.cs
 
 **Calling:**
-- CallManager.cs
 - PayPhone.cs
 
 **Casino:**
